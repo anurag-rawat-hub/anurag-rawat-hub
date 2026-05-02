@@ -28,7 +28,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/anurag-rawat-93365a388">LinkedIn</a> |
 </p>
 
 ---

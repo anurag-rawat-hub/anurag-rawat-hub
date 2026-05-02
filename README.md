@@ -12,15 +12,26 @@
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: C , C++ , Python, JavaScript 
-- ⚙️ Hardware: ESP32, Arduino
-- 🌐 Web: Django, FastAPI, React 
-- 📊 Concepts: NILM, Circuit Analysis, Embedded Systems
+- <p align="left">
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>
 
 ---
 ### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/anurag-rawat-93365a388">LinkedIn</a> |
+<p >
+  <a href="https://www.linkedin.com/in/anurag-rawat-93365a388"><img src="https://skillicons.dev/icons?i=linkedin" /></a> 
 </p>
 
 ---

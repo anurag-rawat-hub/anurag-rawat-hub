@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
 # <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Rawat" alt="Typing SVG" /></div>
-<h3 align="center">⚡ Software Engineer | 💻 AI ML & IoT Developer | 🚀 Tech Enthusiast</h3>
+
+<h3 align="center">⚡ Software Engineer | 💻 AI ML & Fast API Developer | 🚀 Hardware + Software Projects</h3>
 
 ---
 
@@ -12,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- <p align="left">
+ <p align="left">
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
   <img src="https://skillicons.dev/icons?i=css" />
@@ -26,6 +27,12 @@
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=django" />
   <img src="https://skillicons.dev/icons?i=fastapi" />
+  <br>
+  <br>
+  Hardware: ESP32, Arduino
+
+
+ 
 </p>
 
 ---

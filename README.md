@@ -4,17 +4,14 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Smart Energy Monitoring Systems**
-- 🌱 Learning **AI + IoT + Backend Development**
-- ⚡ Passionate about **Automation & Real-time Systems**
-- 🎯 Goal: Build impactful tech solutions
+ I am  currently learning Django, Fast API <br> Making projects using IOT, backend, Machine Learning and basic Agentic AI. 
 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Languages: C, Python, JavaScript
+- 💻 Languages: C , C++ , Python, JavaScript 
 - ⚙️ Hardware: ESP32, Arduino
-- 🌐 Web: FastAPI, React (basic)
+- 🌐 Web: Django, FastAPI, React 
 - 📊 Concepts: NILM, Circuit Analysis, Embedded Systems
 
 ---

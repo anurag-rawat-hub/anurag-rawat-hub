@@ -5,14 +5,14 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 - I am Anurag Rawat CSBS student at JSS Science and Technology University (SJCE) <br> 
 - Currently learning Django, Fast API <br> 
 - Making projects using IOT, backend, Machine Learning and basic Agentic AI. 
 
 ---
 
-### 🛠️ Tech Stack
+###  Languages and Tools
  <p align="left">
   <img src="https://skillicons.dev/icons?i=c" />
   <img src="https://skillicons.dev/icons?i=cpp" />
@@ -27,6 +27,7 @@
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=django" />
   <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
   <br>
   <br>
   Hardware: ESP32, Arduino

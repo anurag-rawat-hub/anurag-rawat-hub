@@ -28,7 +28,7 @@
   <img src="https://skillicons.dev/icons?i=django" />
   <img src="https://skillicons.dev/icons?i=fastapi" />
   <img src="https://skillicons.dev/icons?i=arduino" />
-  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" height="50"/>
   <br>
   <br>
   Hardware: ESP32, Arduino

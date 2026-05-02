@@ -1,3 +1,4 @@
+![Rainbow Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h1 align="center">Hi 👋, I'm Anurag Rawat</h1>
 <h3 align="center">⚡ Electrical Engineer | 💻 AI & IoT Developer | 🚀 Tech Enthusiast</h3>
 

@@ -18,14 +18,6 @@
 - 📊 Concepts: NILM, Circuit Analysis, Embedded Systems
 
 ---
-
-### 🚀 Projects
-- ⚡ Smart Energy Monitoring System
-- 🌱 Smart Irrigation System
-- 🤖 AI + AR Emergency Assistant
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag-rawat-93365a388">LinkedIn</a> |

@@ -1,11 +1,13 @@
 ![Rainbow Line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<h1 align="center">Hi 👋, I'm Anurag Rawat</h1>
-<h3 align="center">⚡ Electrical Engineer | 💻 AI & IoT Developer | 🚀 Tech Enthusiast</h3>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Rawat" alt="Typing SVG" /></div>
+<h3 align="center">⚡ Software Engineer | 💻 AI ML & IoT Developer | 🚀 Tech Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
- I am  currently learning Django, Fast API <br> Making projects using IOT, backend, Machine Learning and basic Agentic AI. 
+- I am Anurag Rawat CSBS student at JSS Science and Technology University (SJCE) <br> 
+- Currently learning Django, Fast API <br> 
+- Making projects using IOT, backend, Machine Learning and basic Agentic AI. 
 
 ---
 
@@ -21,20 +23,6 @@
 - ⚡ Smart Energy Monitoring System
 - 🌱 Smart Irrigation System
 - 🤖 AI + AR Emergency Assistant
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
 
 ---
 

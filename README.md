@@ -14,22 +14,67 @@
 
 ###  Languages and Tools
  <p align="left">
+  <a href="https://en.cppreference.com/w/c" target="_blank">
   <img src="https://skillicons.dev/icons?i=c" />
+</a>
+
+<a href="https://en.cppreference.com/w/" target="_blank">
   <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://docs.docker.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
+<a href="https://git-scm.com/doc" target="_blank">
   <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://www.mongodb.com/docs/" target="_blank">
   <img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<a href="https://dev.mysql.com/doc/" target="_blank">
   <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://docs.python.org/3/" target="_blank">
   <img src="https://skillicons.dev/icons?i=python" />
-  <br>
+</a>
+
+<br>
+
+<a href="https://react.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://docs.djangoproject.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=django" />
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=fastapi" />
+</a>
+
+<a href="https://www.arduino.cc/reference/en/" target="_blank">
   <img src="https://skillicons.dev/icons?i=arduino" />
+</a>
+
+<a href="https://docs.n8n.io/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" height="50"/>
+</a>
   <br>
   <br>
   Hardware: ESP32, Arduino

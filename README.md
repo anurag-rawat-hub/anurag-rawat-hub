@@ -7,8 +7,8 @@
 
 ###  About Me
 - I am Anurag Rawat ,CSBS student at JSS Science and Technology University (SJCE) <br> 
-- Currently learning Django, Fast API and Agentic AI <br> 
-- Making projects using IOT, Backend , Machine Learning and basic Agentic AI. 
+- Currently learning Django, Fast API, Machine Learning and Agentic AI <br> 
+- Making projects using IOT, Backend , Machine Learning and Agentic AI. 
 
 ---
 

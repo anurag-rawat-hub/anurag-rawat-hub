@@ -34,6 +34,8 @@
   <img src="https://skillicons.dev/icons?i=git" />
 </a>
 
+<br>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://skillicons.dev/icons?i=html" />
 </a>

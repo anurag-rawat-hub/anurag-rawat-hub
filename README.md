@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="100" width="100%">
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Rawat" alt="Typing SVG" /></div>
+ <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3670A0&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anurag+Rawat" alt="Typing SVG" /></div>
 
 <h3 align="center">🧩 Software Engineer | 💻 AI ML & Fast API Developer | ⚙️Hardware + 🌐Software Projects</h3>
 
@@ -76,6 +76,26 @@
 
 <a href="https://docs.n8n.io/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" height="50"/>
+</a>
+<br>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" />
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" />
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" />
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" />
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" />
 </a>
   <br>
   <br>
